@@ -1,0 +1,151 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+#title {
+    height: 240px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 55px;
+    padding-top: 50px;
+    color: #098bdc;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 19px;
+    margin-top: 15px;
+    color: #7f8b96;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    margin-top: 100px;
+    text-align: center;
+    color: #0a6096;
+}
+
+h4 {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #0a6096;
+}
+
+.useCaseCode1 {
+    float: left;
+    background-color: #f4f6f9;
+    height: auto;
+    width: 35%;
+    margin-left: 14%;
+}
+
+.useCaseCode2 {
+    float: left;
+    height: auto;
+    width: 35%;
+    margin-left: 14%;
+}
+
+.blank {
+    background-color: white;
+    height: 100px;
+}
+
+.smallDiv1 {
+    background-color: #f4f6f9;
+    height: auto;
+}
+
+.smallDiv2 {
+    background-color: white;
+    height: auto;
+}
+
+.code {
+    margin-top: 40px;
+    width: 45%;
+    margin-left: 28%;
+    margin-right: 33%;
+    padding: 10px;
+    background-color: #098bdc;
+}
+
+.black {
+    color: black;
+}
+
+.blue {
+    color: rgb(6, 133, 245);
+}
+
+.green {
+    color: rgb(77, 152, 104)
+}
+
+.yellow {
+    color: rgb(254, 121, 5)
+}
+
+.grey {
+    color: rgb(130, 127, 127)
+}
+
+.description1 {
+    height: 200px;
+    margin-left: 14%;
+    width: 70%;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 25px;
+}
+
+.description2 {
+    height: auto;
+    margin-top: -70px;
+    margin-left: 50%;
+    width: 35%;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 23px;
+}
+
+.nav {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+  
+li {
+    float: left;
+  }
+
+.examples {
+    display: block;
+    color: #098bdc;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    left: 35%;  
+    font-family: 'Oswald', sans-serif;
+}
+
+.api {
+    display: block;
+    color: #098bdc;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    left: 60%;
+    font-family: 'Oswald', sans-serif;
+}
